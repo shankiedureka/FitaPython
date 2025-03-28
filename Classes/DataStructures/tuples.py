@@ -3,10 +3,16 @@ a = ()
 
 #Tuple is not mutable(alteration is not possible)
 a = (1,2,3,4,5)
-a.append(6)
+s = list(a)
 
-for i in a:
-    print(i)
+lis = ['username','password']
+credentials = tuple(lis)
+print(type(credentials))
+
+
+# a.append(6)
+# for i in a:
+#     print(i)
 
 
 
