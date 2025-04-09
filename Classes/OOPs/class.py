@@ -45,6 +45,27 @@ usr_1.wow()
 usr_2.wow()
 
 
+#Features in OOPS
+#1. Encapsulation - Preventing access to the variables or functions
+#2. Inheritance - getting properties from parent class
+#3. Polymorphism - 
+#4. Abstraction - hiding unnecessary details
+
+#Inheritance
+# weather_stattion_old --> temp, humidity
+# weather_station_modern --> wind_speed,
+
+#Polymorphism
+#OOPS
+# i can use same function name in different class
+# I can use them based on my need
+
+#Functions(function with same  names)
+#lastly initiated function will be given priority
+
+
+
+
 
 
 
