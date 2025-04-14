@@ -5,7 +5,7 @@ class BankAccount:
         self.balance = balance
 
     def deposit(self, amount):
-        bharath.balance
+        # bharath.balance
         self.balance += amount
         return self.balance
 
@@ -17,7 +17,7 @@ class BankAccount:
 
 
 # Create an account
-bharath = BankAccount("Bharath", 1000)
+bharath = BankAccount("Kumar", 1000)
 
 print(bharath.deposit(500))  
 
