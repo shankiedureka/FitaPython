@@ -1,9 +1,9 @@
 {
     "101": {
-        "Name": "Alice Johnson",
+        "Name": "Johnson",
         "Age": 21,
         "Course": "Computer Science",
-        "Marks": 85.5
+        "Marks": 80.0
     },
     "102": {
         "Name": "Bob Smith",
@@ -28,11 +28,5 @@
         "Age": 25,
         "Course": "Data Science",
         "Marks": 87.2
-    },
-    "106": {
-        "Name": "Sam",
-        "Age": 20,
-        "Course": "Data Science",
-        "Marks": 90.0
     }
 }
